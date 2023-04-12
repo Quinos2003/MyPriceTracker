@@ -17,5 +17,5 @@ MyPriceTracker is a price tracking application that allows you to monitor the pr
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/MyPriceTracker.git
+git clone https://github.com/Quinos2003/MyPriceTracker.git
 

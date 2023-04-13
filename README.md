@@ -19,23 +19,18 @@ MyPriceTracker is a price tracking application that allows you to monitor the pr
 1. Clone the repository:
 git clone https://github.com/Quinos2003/MyPriceTracker.git
 
-
 2. Install the dependencies:
 cd MyPriceTracker
 pip install -r requirements.txt
 
-
 3. Create a database:
 python manage.py migrate
-
 
 4. Run the development server:
 python manage.py runserver
 
-
 5. Open the application in your web browser:
 http://localhost:8000/
-
 
 ## Usage
 
@@ -45,11 +40,7 @@ http://localhost:8000/
 4. You can view the price history of each product and set up email notifications for price drops.
 
 ## Contributing
-
 Contributions are welcome! If you would like to contribute to the project, please fork the repository and submit a pull request.
 
 ## License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
